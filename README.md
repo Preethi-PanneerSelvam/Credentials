@@ -7,8 +7,8 @@ This Python script implements a basic user authentication system where users are
 1. Set your username and PIN (password) at the beginning of the script:
 
 ```python
-User = "Preethi"
-Pin = 2107
+User = "Your username"
+Pin = "Your password"
 ```
 
 2. Set the maximum number of login attempts in the `No_attempt` variable:
